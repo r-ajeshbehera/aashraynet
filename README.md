@@ -1,5 +1,7 @@
 # AashrayNet — Cyclone Shelter & Relief Management System
 
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-database-4479A1?logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-compose-2496ED?logo=docker&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-blue)
+
 > **Portfolio project. All data is demonstration data. This is not an official emergency-response service.**
 
 AashrayNet helps coordinate cyclone shelters in Odisha:
@@ -11,6 +13,12 @@ AashrayNet helps coordinate cyclone shelters in Odisha:
 - a privacy-safe public family finder
 
 Demo event: **Cyclone Dana 2026 (DEMO)**.
+
+## Demo
+
+![AashrayNet demo](docs/demo/aashraynet-demo.gif)
+
+▶️ **Full walkthrough video** (about 4 minutes, every role, with captions): [docs/demo/aashraynet-demo.mp4](docs/demo/aashraynet-demo.mp4)
 
 ## Problem
 
